@@ -1,0 +1,26 @@
+{
+  "name": "environment.override",
+  "version": "1.0.0",
+  "description": "Override process.env variables from environment.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3686/override.process.env.git"
+  },
+  "keywords": [
+    "override",
+    "process",
+    "env",
+    "nodejs",
+    "process.env"
+  ],
+  "author": "Alexander Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3686/override.process.env/issues"
+  },
+  "homepage": "https://github.com/3686/override.process.env#readme"
+}
